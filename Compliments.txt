@@ -1,0 +1,1 @@
+"Great job!", "You're amazing!", "Well done!", "Fantastic work!", "You're a rockstar!", "Impressive work!", "You're a natural!", "Outstanding job!", "Awesome job!", "You're a genius!", "Amazing effort!", "Excellent work!", "You're the best!", "Incredible job!", "Good job!", "You're a superstar!", "Brilliant work!", "You're a star!", "Fabulous job!", "You're a champ!"
