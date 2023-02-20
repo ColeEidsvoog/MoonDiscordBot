@@ -11,6 +11,7 @@ How to test the bot for yourself:
 4. Send any of the premade commands to the bot through the discord message bar in the server where you added the bot
 
 Commands:
+
 !test - this command has the bot send back a confirmation that it is active
 
 !suggest - this command followed by a word or a phrase will add the following word or phrase into a suggestion list stored in a replits database
