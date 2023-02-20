@@ -12,7 +12,11 @@ How to test the bot for yourself:
 
 Commands:
 !test - this command has the bot send back a confirmation that it is active
+
 !suggest - this command followed by a word or a phrase will add the following word or phrase into a suggestion list stored in a replits database
+
 !suggestion_list - this command will print out the existing suggestion list or a message noting there is no suggestions yet
+
 !clear_suggestions - this command will clear the existing database of suggestions
+
 !coin_flip - this command will return either heads or tails
