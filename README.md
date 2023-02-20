@@ -12,6 +12,8 @@ How to test the bot for yourself:
 
 Commands:
 
+!help - this command will list out all other commands for user conveinence 
+
 !test - this command has the bot send back a confirmation that it is active
 
 !suggest - this command followed by a word or a phrase will add the following word or phrase into a suggestion list stored in a replits database
